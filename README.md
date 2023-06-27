@@ -24,7 +24,10 @@ Bu proje, yüz tanıma teknolojisi kullanarak hedefli bir kişiyi tanıma ve tak
 - Arduino Uno Sensor Shield
 - Harici Kamera(" İsteğe Bağlı Laptopta bulunan dahili kamera için de çalışmaya uygundur")
 - 3D Baskı("İsteğe Bağlı servo motorları sabitleyecek bir düzenek kullanılabilir basit tahta yada plastik gibi...")
-- 
+- 3D Baskı için gerekli STL dosyaları ek olarak mevcuttur(kamera tipine göre parçalarda düzenleme gerekebilmektedir bu yüzden TinkerCAD gibi araçlardan destek alabilirsiniz)
+  Not: Baskı için bu projede parçaarda değişiklik yapılmıştır
+- 3D baskı için "Rigid Zero" marka 3D Printer kullanılmıştır
+
 
 ### Kurulum
 
