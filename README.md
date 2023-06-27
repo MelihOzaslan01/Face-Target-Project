@@ -82,7 +82,7 @@ Save to grepper
 4.  Bir Birleştirme İsteği oluşturun ve incelemeye gönderin.
     
 
-![1](https://drive.google.com/file/d/1pqhzt_NdJyfY9T10vRloNlqo43q4vp2H/view?usp=drive_link)
+![1](https://www.mediafire.com/folder/avimpvukmbydt/Fotos)
 ![2](https://drive.google.com/file/d/1H7GIEkHdvoVg167-Dv87j5a4Vpw2xTUW/view?usp=drive_link)
 
 ## İletişim
