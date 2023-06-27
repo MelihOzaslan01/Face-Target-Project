@@ -1,8 +1,5 @@
 # Face Target Project from Arduino Uno
 
-![enter image description here](https://drive.google.com/file/d/1pqhzt_NdJyfY9T10vRloNlqo43q4vp2H/view?usp=drive_link)
-
-![enter image description here](https://drive.google.com/file/d/1H7GIEkHdvoVg167-Dv87j5a4Vpw2xTUW/view?usp=sharing)
 
 ## Proje Hakkında
 
