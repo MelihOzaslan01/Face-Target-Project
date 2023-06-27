@@ -1,9 +1,5 @@
 # Face Target Project from Arduino Uno
 
-![enter image description here](https://drive.google.com/file/d/1pqhzt_NdJyfY9T10vRloNlqo43q4vp2H/view?usp=drive_link)
-
-![enter image description here](https://drive.google.com/file/d/1H7GIEkHdvoVg167-Dv87j5a4Vpw2xTUW/view?usp=sharing)
-
 ## Proje Hakkında
 
 Bu proje, yüz tanıma teknolojisi kullanarak hedefli bir kişiyi tanıma ve takip etme amacını taşımaktadır. Proje, canlı video akışı veya kaydedilmiş videolar üzerinde çalışabilir. Hedefli kişiyi tespit eder ve izlerken, yüz tanıma algoritması kullanarak onu tanıyabilir. Arduino Uno İle entegre olarak servo motorlar ile algılanan yüzü otomatik olarak takip ederek hareket gerçekleştirir.
