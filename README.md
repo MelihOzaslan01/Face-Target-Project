@@ -28,7 +28,7 @@ This project aims to recognize and track a targeted person using facial recognit
 8. STL files for 3D Printing are available (some parts may need to be adjusted according to the camera type, so you can get support from tools like TinkerCAD) Note: Some parts of this project have been modified for printing
 9. "Rigid Zero" brand 3D Printer was used for 3D printing
 
-------------
+----------------------------
 
 
 
@@ -42,19 +42,19 @@ This project aims to recognize and track a targeted person using facial recognit
 
 - Save to grepper
 
-2	.  Go to the project folder:
+2.  Go to the project folder:
 
 bashCopy code
 
 `cd face-target-project`
 
-3 .	Install the required dependencies:
+3.	Install the required dependencies:
 
 bashCopy code
 
 `pip install -r requirements.txt`
 
-------------
+-------------------------------------------
 
 
 
@@ -66,9 +66,9 @@ bashCopy code
 
 `python main.py`
 
-2	. When the project is running, a live video stream or a recorded video will open. Frame the targeted person's face correctly and start the tracking process. Add any additional information that you need to consider when using or testing the project here.
+2. When the project is running, a live video stream or a recorded video will open. Frame the targeted person's face correctly and start the tracking process. Add any additional information that you need to consider when using or testing the project here.
 
-##Contributing
+## Contributing
 
 1. To contribute to this project, create a branch:
 
@@ -76,19 +76,19 @@ bashCopy code
 
 `git checkout -b feature/NewFeature`
 
-2	.	Make the changes you want and commit them:
+2.	Make the changes you want and commit them:
 
 bashCopy code
 
 `git commit -am 'New feature: Description'`
 
-3		. Push your branch to the main repository:
+3. Push your branch to the main repository:
 
 bashCopy code
 
 `git push origin feature/NewFeature`
 
-4		.Create a Pull Request and send it for review.
+4. Create a Pull Request and send it for review.
 
 ## Contact
 
