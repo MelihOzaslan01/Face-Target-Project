@@ -36,7 +36,8 @@ This project aims to recognize and track a targeted person using facial recognit
 
 1. Clone the repository to your local machine:
 
- bash
+ bashCopy code
+
    `git clone https://github.com/MelihOzaslan01/face-target-project.git`
 
 - Save to grepper
