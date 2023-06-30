@@ -1,8 +1,8 @@
-#Face Target Project with Arduino Uno
+# Face Target Project with Arduino Uno
 
 
 
-##About the Project
+## About the Project
 This project aims to recognize and track a targeted person using facial recognition technology. The project can work on live video streams or recorded videos. It can detect and track the targeted person while recognizing them using a facial recognition algorithm. It uses Arduino Uno to integrate with servo motors to automatically track the detected face and perform movements.
 
 ## Features
@@ -13,10 +13,10 @@ This project aims to recognize and track a targeted person using facial recognit
 - Track the detected face using servo motors to perform target tracking
 
 
-##Installation and Usage
+## Installation and Usage
 
 
-###Requirements
+### Requirements
 
 1. Python 3.x
 2. OpenCV Library
@@ -32,7 +32,7 @@ This project aims to recognize and track a targeted person using facial recognit
 
 
 
-###Installation
+### Installation
 
 1. Clone the repository to your local machine:
 
@@ -57,7 +57,7 @@ bashCopy code
 
 
 
-##Usage
+## Usage
 
 1. Start the project by running the following command in the project folder:
 
@@ -89,7 +89,7 @@ bashCopy code
 
 4		.Create a Pull Request and send it for review.
 
-##Contact
+## Contact
 
 Email: melihozaslan01@gmail.com
 Project link: https://github.com/MelihOzaslan01/face-target-project
