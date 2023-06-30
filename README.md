@@ -1,4 +1,4 @@
-# Face Target Project from Arduino Uno
+# Arduino Uno ile Yüz Hedef Projesi
 
 
 ## Proje Hakkında
